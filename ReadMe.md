@@ -1,2 +1,1 @@
-echo This an edit by UserB
-This an edit by UserB
+Hi this is Lab1
